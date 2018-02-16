@@ -1,0 +1,17 @@
+STOCK PRICE PREDICTION
+
+https://github.com/lilianweng/stock-rnn
+
+https://github.com/topics/stock-price-prediction
+
+https://github.com/CanePunma
+https://github.com/CanePunma/Stock_Price_Prediction_With_RNNs
+
+
+IBEX
+http://www.bolsaes.com/historico-cotizaciones/%5EIBEX/
+
+SAN
+https://www.invertia.com/es/mercados/bolsa/empresas/historico/-/empresa/santander/RV011BSCH
+
+
